@@ -1,2 +1,6 @@
 # NLP_cyberbullying_detection
 A code built to check if the given website contains cyberbullying content or profanity using NLP. If cyber bullying is detected then it redirects to the notional cyber crime portal of India to file a complaint.
+
+This is an abstract about a system that uses Natural Language Toolkit's sentiment analysis to detect cyberbullying in online platforms. The system will analyze text data from various sources, such as social networking platforms, forums, and messaging applications, and categorize them based on their emotional tone and sentiment. The goal is to identify negative content that suggests cyberbullying, such as harsh language, personal attacks, threats, and insulting statements. This approach will enable proactive intervention and victim care, as well as shape policy formulation and targeted prevention initiatives.
+
+Additionally, a python function is provided to detect cyberbullying in a website using the Better Profanity library and NLTK's stopwords. The function tokenizes the text, removes punctuation, and stop words. It then checks for profanity and cyberbullying terms in the remaining words. If cyberbullying is detected in a website, the user will be redirected to the cybercrime.gov.in website.
